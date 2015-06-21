@@ -6,7 +6,7 @@ output: html_document
 This project implements the steps in the following resources, in order to prepare data for further Statistical Analysis :
 
 1. <https://github.com/jtleek/datasharing> and 
-2. __C__oursera course __Getting and Cleaning Data__
+2. **C**oursera course **Getting and Cleaning Data**
 
 The main data is taken from the site: <http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones> and then cleaned and prepared as per the following instructions:
 

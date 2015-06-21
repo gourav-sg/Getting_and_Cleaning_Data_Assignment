@@ -8,7 +8,7 @@ This project implements the steps in the following resources, in order to prepar
 1. <https://github.com/jtleek/datasharing> and 
 2. **C**oursera course **Getting and Cleaning Data**
 
-The main data is taken from the site: <http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones> and then cleaned and prepared as per the following instructions:
+The main data is taken from the site: <http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones> and then cleaned and prepared as per the instructions mentioned in CodeBook.md
 
 ## Environment
 
@@ -41,7 +41,7 @@ Rcommand> version
 
 ## Data Dictionary and Description of Transformations:
 
-All the steps for cleaning up the data is mentioned in the file CodeBook.md
+All the data description, measurements, steps for cleaning up the data is mentioned in the file CodeBook.md
 
 ## R Code:
 

@@ -1,5 +1,5 @@
 ---
-title: "GETTING AND CLEANING DATA ASSIGNMENT"
+title: "GETTING AND CLEANING DATA ASSIGNMENT"  
 output: html_document
 ---
 
